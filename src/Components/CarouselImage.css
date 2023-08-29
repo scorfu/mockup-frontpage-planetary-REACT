@@ -1,0 +1,44 @@
+.carousel__item, .carousel-item.active, .carousel-item-prev, .carousel-item-next{
+    display: flex;
+}
+
+.container__text__over__sliderImage{
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+}
+
+.text__over__sliderImage{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 17px;
+}
+
+.title__over{
+font-family: Ubuntu;
+font-weight: 700;
+font-size: 16px;
+font-style: normal;
+line-height: normal;
+margin-bottom: 4px;
+}
+
+.text__over__sliderImage div:first-of-type{
+font-family: Ubuntu;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.text__over p{
+    margin-bottom: 2px;
+}
+img{
+    border-radius: 10px 0 0 10px;
+}
+
+@media screen and (max-width: 1910px){
+    .container__text__over__sliderImage, .container__text__over__sliderImage img{
+      width: 95%;
+    }
+  }

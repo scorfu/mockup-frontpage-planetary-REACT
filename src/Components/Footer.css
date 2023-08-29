@@ -1,0 +1,14 @@
+footer {
+  background-color: #141922;
+  width: 100%;
+}
+footer p {
+  margin-left: 23.04vw;
+}
+footer p:first-child {
+  padding-top: 38.5px;
+}
+footer p:last-child {
+  padding-top: 5.5px;
+  padding-bottom: 30px;
+}

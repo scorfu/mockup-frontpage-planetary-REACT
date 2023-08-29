@@ -1,0 +1,41 @@
+.main__text {
+  width: 36.65vw;
+  margin-top: 71px;
+  margin-left: 22.99vw;
+  margin-bottom: 100px;
+}
+
+hr {
+  width: 75%;
+}
+
+.main__text div:first-child {
+  font-size: 29.711px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.main__text div p:first-child {
+  padding-top: 20px;
+}
+
+.checkout__btn {
+  height: 32px;
+  width: 5.81vw;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  background-color: #46c351;
+  margin-top: 20px;
+  padding: 8px;
+}
+.checkout__btn:hover {
+  box-shadow: 0 0.6rem 1.5rem rgba(21, 139, 31, 0.7);
+  color: #000;
+}
+
+@media screen and (max-width: 1200px){
+  .main__text{
+    width: 55%;
+  }
+}
