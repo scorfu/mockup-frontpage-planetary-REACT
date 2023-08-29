@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mockup-frontpage-planetary-REACT/static/css/main.0bf84e89.css",
-    "main.js": "/mockup-frontpage-planetary-REACT/static/js/main.cf24b564.js",
+    "main.js": "/mockup-frontpage-planetary-REACT/static/js/main.99641131.js",
     "static/js/787.45ab84c7.chunk.js": "/mockup-frontpage-planetary-REACT/static/js/787.45ab84c7.chunk.js",
     "static/media/sliderPlanet.png": "/mockup-frontpage-planetary-REACT/static/media/sliderPlanet.6f5bd4e0f6ea9dd2a039.png",
     "static/media/background.png": "/mockup-frontpage-planetary-REACT/static/media/background.63782c7dca86d3927037.png",
     "index.html": "/mockup-frontpage-planetary-REACT/index.html",
     "main.0bf84e89.css.map": "/mockup-frontpage-planetary-REACT/static/css/main.0bf84e89.css.map",
-    "main.cf24b564.js.map": "/mockup-frontpage-planetary-REACT/static/js/main.cf24b564.js.map",
+    "main.99641131.js.map": "/mockup-frontpage-planetary-REACT/static/js/main.99641131.js.map",
     "787.45ab84c7.chunk.js.map": "/mockup-frontpage-planetary-REACT/static/js/787.45ab84c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0bf84e89.css",
-    "static/js/main.cf24b564.js"
+    "static/js/main.99641131.js"
   ]
 }
