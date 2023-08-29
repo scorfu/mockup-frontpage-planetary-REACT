@@ -178,3 +178,20 @@ font-size: 16px;
     display: none;
   }
 }
+
+@media screen and (max-width: 660px) {
+  .container__text__over__sliderImage, .container__text__over__sliderImage img{
+    width: 60vw;
+  }
+  .description__container{
+    display: none;
+  }
+  .purchase__container{
+    position: relative;
+    z-index: 3;
+    top: 250px;
+    left: -180px;
+    background: transparent;
+    width: 120px;
+  }
+}

@@ -106,3 +106,8 @@
     display: none;
   }
 }
+@media screen and (max-width: 430px){
+  .logos{
+    margin-left: 6vw;
+  }
+}

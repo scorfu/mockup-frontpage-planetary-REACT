@@ -119,3 +119,14 @@ a,
     display: none;
   }
 }
+@media screen and (max-width: 660px) {
+  .nav__item:nth-child(1) {
+    margin-left: 12vw;
+  }
+  .nav__item:last-child {
+    margin-left: 10.08vw;
+  }
+  .navig{
+    width: 120%;
+  }
+}

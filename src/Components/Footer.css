@@ -12,3 +12,8 @@ footer p:last-child {
   padding-top: 5.5px;
   padding-bottom: 30px;
 }
+@media screen and (max-width: 660px){
+  footer{
+    width: 120%;;
+  }
+}
