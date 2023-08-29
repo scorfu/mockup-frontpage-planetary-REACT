@@ -18,6 +18,11 @@ function App() {
       path: '/spaceships',
       element: <Spaceships/>
     },
+    
+    {
+      path: '*',
+      element: <Homepage/>
+    },
   ])
   return (
     <div>
